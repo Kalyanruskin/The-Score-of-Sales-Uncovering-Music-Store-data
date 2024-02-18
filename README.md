@@ -40,9 +40,11 @@ Music stores generate a wealth of data related to customer purchases, product po
 
 ## Usage
 
--Connect to your SQL-compatible database engine.
--Open and execute the SQL queries provided in the Music_store_Query.sql file.
--Review the results to gain insights into the music store's sales data.
+Connect to your SQL-compatible database engine.
+
+Open and execute the SQL queries provided in the Music_Store_database.sql file
+
+Review the results to gain insights into the music store's sales data.
 
 ## SQL Queries
 
