@@ -40,26 +40,24 @@ Music stores generate a wealth of data related to customer purchases, product po
 
 ## Usage
 
-Connect to your SQL-compatible database engine.
-
-Open and execute the SQL queries provided in the Music_Store_database.sql file
-
-Review the results to gain insights into the music store's sales data.
+- Connect to your SQL-compatible database engine.
+- Open and execute the SQL queries provided in the Music_Store_database.sql file
+- Review the results to gain insights into the music store's sales data.
 
 ## SQL Queries
 
 Explore the following key SQL queries:
--Music_store_Query.sql: Perform exploratory analysis on sales data, analyze customer purchasing behavior & evaluate the performance of music products.
+- Music_store_Query.sql: Perform exploratory analysis on sales data, analyze customer purchasing behavior & evaluate the performance of music products.
 
 ## Summarized Insights
 
--Leading Artists and Albums: By pinpointing top-selling artists and albums, we gain insights into customer preferences, aiding in product selection and marketing strategies.
--Genre Trends: Analyzing music genre popularity offers guidance on genre-specific inventory management and marketing tactics.
--Customer Purchasing Patterns: Understanding how customers spend, identifying valuable customers, and noting key regions can guide personalized marketing and customer relationship strategies.
--Employee Performance Evaluation: Assessing staff performance based on experience and sales metrics facilitates acknowledgment and incentivization of high-performing employees.
--Media Format Influence: Investigating how different media formats affect sales can shape content distribution strategies and format preferences.
--Playlist Curation Insights: Understanding preferences for track length and genres aids in crafting playlists that enrich the customer listening experience.
--Market Insights: Identifying top-selling tracks and artists by country allows for tailored marketing strategies and localization efforts.
+1.	Leading Artists and Albums: By pinpointing top-selling artists and albums, we gain insights into customer preferences, aiding in product selection and marketing strategies.
+2.	Genre Trends: Analyzing music genre popularity offers guidance on genre-specific inventory management and marketing tactics.
+3.	Customer Purchasing Patterns: Understanding how customers spend, identifying valuable customers, and noting key regions can guide personalized marketing and customer relationship strategies.
+4.	Employee Performance Evaluation: Assessing staff performance based on experience and sales metrics facilitates acknowledgment and incentivization of high-performing employees.
+5.	Media Format Influence: Investigating how different media formats affect sales can shape content distribution strategies and format preferences.
+6.	Playlist Curation Insights: Understanding preferences for track length and genres aids in crafting playlists that enrich the customer listening experience.
+7.	Market Insights: Identifying top-selling tracks and artists by country allows for tailored marketing strategies and localization efforts.
 
 ## Data Source
 
