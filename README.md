@@ -36,7 +36,7 @@ Music stores generate a wealth of data related to customer purchases, product po
 ## Installation
 
 1. Clone the repository:
-   git clone https://github.com/Kalyanruskin/Music_Store_database.sql
+   git clone https://github.com/Kalyanruskin/The-Score-of-Sales-Uncovering-Music-Store-data.git
 
 ## Usage
 
